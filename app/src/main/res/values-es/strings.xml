@@ -19,14 +19,14 @@
         <item>Documentación</item>
     </string-array>
     <string-array name="activity_subtitles">
-        <item>My Document</item>
-        <item>App Description</item>
-        <item>Function Plot</item>
-        <item>Polar Function Plot</item>
-        <item>3D Plot</item>
-        <item>Series and Integrals</item>
+        <item>Mi documento</item>
+        <item>Descripción de la aplicación</item>
+        <item>Función Gráfico</item>
+        <item>Función Gráfico Polar</item>
+        <item>Gráfico 3D</item>
+        <item>Series e Integrales</item>
         <item>microMathematics Plus</item>
-        <item>Download PDF</item>
+        <item>Descargar PDF</item>
     </string-array>
     <string-array name="activity_logos">
         <item>drawer_worksheet</item>
@@ -40,7 +40,7 @@
     </string-array>
     <string-array name="activity_resources"><!-- On process -->
         <item></item>
-        <item>asset:/doc_en/how_to_use.xml</item>
+        <item>asset:/doc_es/how_to_use_es.xml</item>
         <item>asset:/doc_es/function_plot_es.xml</item>
         <item>asset:/doc_en/polar_plot.xml</item>
         <item>asset:/doc_en/three_d_plot.xml</item>
@@ -51,48 +51,50 @@
     <string name="activity_welcome">asset:/doc_en/welcome.xml</string>
 
     <!-- Permissions -->
-    <string name="allow_storage_access_title">Allow to access worksheet files</string>
-    <string name="allow_storage_access_description">This app needs you to grant permission to access the worksheet files on this device</string>
-    <string name="allow_storage_access_grant">Grant permission</string>
+    <string name="allow_storage_access_title">Permitir accesso a ficheros de hoja de cálculo</string>
+    <string name="allow_storage_access_description">Esta aplicación necesita que des permiso para acceder a los ficheros de hoja de cálculo en este dispositivo</string>
+    <string name="allow_storage_access_grant">Permitir accesso</string>
     
     <!-- Main menu -->
-    <string name="action_exit">Exit</string>
-    <string name="action_play">Calculate worksheet</string>
-    <string name="action_stop">Stop calculation</string>
-    <string name="action_object_properties">Object properties</string>
-    <string name="action_undo">Undo</string>
-    <string name="action_discard">Delete selected</string>
-    <string name="action_document_settings">Document settings</string>
-    <string name="action_new_document">New document</string>
-    <string name="action_open">Open file</string>
-    <string name="action_save">Save file</string>
-    <string name="action_save_as">Save as</string>
-    <string name="action_export">Export</string>
-    <string name="action_licenses">Open source licenses</string>
-    <string name="action_details">Details</string>
-    <string name="action_app_settings">App settings</string>
+    <string name="action_exit">Salir</string>
+    <string name="action_play">Calcular hoja de cálculo</string>
+    <string name="action_stop">Parar cálculos</string>
+    <string name="action_object_properties">Propiedades de objeto</string>
+    <string name="action_undo">Deshacer</string>
+    <string name="action_discard">Eliminar seleccionado</string>
+    <string name="action_document_settings">Configuración de documento</string>
+    <string name="action_new_document">Nuevo documento</string>
+    <string name="action_open">Abrir fichero</string>
+    <string name="action_save">Salvar fichero</string>
+    <string name="action_save_as">Salvar fichero como</string>
+    <string name="action_export">Exportar</string>
+    <string name="action_licenses">Abrir licencias fuente</string>
+    <string name="action_details">Detalles</string>
+    <string name="action_app_settings">Configuración de la aplicación</string>
 
     <!-- Context menu -->
-    <string name="context_expand">Expand selection</string>
-    <string name="context_copy">Copy</string>
-    <string name="context_cut">Cut</string>
-    <string name="context_paste">Paste</string>
+    <string name="context_expand">Expandir selección</string>
+    <string name="context_copy">Copiar</string>
+    <string name="context_cut">Cortar</string>
+    <string name="context_paste">Pegar</string>
 
     <!-- Application settings -->
-    <string name="pref_app_language">App language</string>
-    <string name="pref_developer_mode">Developer options</string>
+    <string name="pref_app_language">Idioma aplicación</string>
+    <string name="pref_developer_mode">Opciones de desarrollo</string>
     <string name="pref_default_language_code" translatable="false">en</string>
     <string-array name="pref_language_codes" translatable="false">
         <item>en</item>
         <item>ru</item>
         <item>de</item>
         <item>pt-rBR</item>
+        <item>es</item>
     </string-array>
     <string-array name="pref_language_names">
-        <item>English</item>
-        <item>Russian</item>
-        <item>German</item>
-        <item>Brazilian Portuguese</item>
+        <item>Inglés</item>
+        <item>Ruso</item>
+        <item>Alemán</item>
+        <item>Brasileño portugués</item>
+        <item>Español</item>
     </string-array>
 
     <!-- Dialogs -->
